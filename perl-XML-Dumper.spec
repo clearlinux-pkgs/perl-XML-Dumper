@@ -4,7 +4,7 @@
 #
 Name     : perl-XML-Dumper
 Version  : 0.81
-Release  : 1
+Release  : 2
 URL      : https://cpan.metacpan.org/authors/id/M/MI/MIKEWONG/XML-Dumper-0.81.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/M/MI/MIKEWONG/XML-Dumper-0.81.tar.gz
 Summary  : No detailed summary available
@@ -84,4 +84,4 @@ find %{buildroot} -type f -name '*.bs' -empty -exec rm -f {} ';'
 
 %files perl
 %defattr(-,root,root,-)
-/usr/lib/perl5/vendor_perl/5.28.2/XML/Dumper.pm
+/usr/lib/perl5/vendor_perl/5.30.1/XML/Dumper.pm
