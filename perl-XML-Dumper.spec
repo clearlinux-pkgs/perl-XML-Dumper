@@ -7,7 +7,7 @@
 #
 Name     : perl-XML-Dumper
 Version  : 0.81
-Release  : 19
+Release  : 20
 URL      : https://cpan.metacpan.org/authors/id/M/MI/MIKEWONG/XML-Dumper-0.81.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/M/MI/MIKEWONG/XML-Dumper-0.81.tar.gz
 Summary  : No detailed summary available
